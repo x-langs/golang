@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "hello_world": ["hello_world/main.go"],
+    "if": ["if/main.go"]
+  }
+}
